@@ -17,13 +17,19 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              Incididunt in cillum magna occaecat nisi qui in. Incididunt in
+              cillum magna occaecat nisi qui in. Incididunt in cillum magna
+              occaecat nisi qui in. Incididunt in cillum magna occaecat nisi qui
+              in.
             </p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
                 <img src="/chitchat.png" className="portfolio-image" alt="" />
-
+                <img
+                  src="https://upleveled.io/images/logo-white-up.png"
+                  alt="UpLeveled Logo"
+                />
                 <h4 className="portfolio-name">Chat App Exploration</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>

@@ -23,6 +23,7 @@ function Contact() {
             <ul className="contact-links">
               <li className="contact-item">Email: lutfhi@me.com</li>
               <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">hgjsja</li>
             </ul>
           </div>
         </div>
